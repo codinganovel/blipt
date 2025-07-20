@@ -38,8 +38,11 @@ sudo apt install xclip   # or
 sudo apt install xsel
 ```
 ---
-## 📁 License
-MIT
+## 📄 License
+
+under ☕️, check out [the-coffee-license](https://github.com/codinganovel/The-Coffee-License)
+
+I've included both licenses with the repo, do what you know is right. The licensing works by assuming your operating under good faith.
 ---
 ## ✍️ Created by Sam  
 Because some thoughts don’t deserve to be remembered forever.
